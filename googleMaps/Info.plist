@@ -24,6 +24,15 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>googlechromes</string>
+        <string>comgooglemaps</string>
+    </array> <key>NSLocationWhenInUseUsageDescription</key>
+    <string>mencari tahu letak sekarang</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Lokasi dipake</string>
+    
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
